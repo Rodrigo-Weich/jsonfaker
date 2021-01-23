@@ -26,6 +26,9 @@ $ git clone git@github.com:Rodrigo-Weich/jsonfaker.git
 # Go into the repository
 $ cd jsonfaker/
 
+# Install NPM dependencies
+$ npm install
+
 # Run (NPM)
 $ npm run dev
 # Run (Yarn)
