@@ -40,10 +40,10 @@ $ yarn dev
 
 ```json
 {
-    "your_custom_key": "desired_value_that_will_be_returned",
-    "your_custom_key_level_two": {
-        "your_custom_key": "other_desired_value_that_will_be_returned"
-    }
+  "your_custom_key": "desired_value_that_will_be_returned",
+  "your_custom_key_level_two": {
+    "your_custom_key": "other_desired_value_that_will_be_returned"
+  }
 }
 ```
 
@@ -59,7 +59,7 @@ $ yarn dev
 ##### Simple Response
 ```json
 {
-    "first_name": "Fannie"
+  "first_name": "Fannie"
 }
 ```
 
