@@ -37,9 +37,14 @@ $ yarn dev
 
 ## Basic Usage
 
-|Resquest type|Format|Limit|
-|--------|-----|----|
-|GET|Body JSON|Unlimited|
+|Resquest type|Format|Limit|Default Server|Default Port|
+|--------|-----|----|-------|-----|
+|GET|Body JSON|Unlimited|http://localhost|3000
+
+```http
+# Default server to send requests
+http://localhost:3000/
+```
 
 ```json
 {
