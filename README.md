@@ -53,7 +53,7 @@ $ yarn dev
 
 ```json
 {
-	"first_name": "name_firstName"
+  "first_name": "name_firstName"
 }
 ```
 ##### Simple Response
@@ -68,41 +68,41 @@ $ yarn dev
 
 ```json
 {
-	"first_name": "name_firstName",
-	"last_name": "name_lastName",
-	"age": "random_number",
-	"phone": "phone_phoneNumber",
-	"username": "internet_userName",
-	"emails": {
-		"one": "internet_email",
-		"two": "internet_exampleEmail"
-	},
-	"website": "internet_domainName",
-	"description": "lorem_paragraph",
-	"last_visit": {
-		"ip": "internet_ip",
-		"mac": "internet_mac",
-		"userAgent": "internet_userAgent",
-		"date": "date_past"
-	},
-	"images": {
-		"image": "image_image",
-		"avatar": "image_avatar",
-		"url": "image_imageUrl",
-		"abstract": "image_abstract",
-		"animals": "image_animals",
-		"business": "image_business",
-		"cats": "image_cats",
-		"city": "image_city",
-		"food": "image_food",
-		"nightlife": "image_nightlife",
-		"fashion": "image_fashion",
-		"people": "image_people",
-		"nature": "image_nature",
-		"sports": "image_sports",
-		"technics": "image_technics",
-		"transport": "image_transport"
-	}
+  "first_name": "name_firstName",
+  "last_name": "name_lastName",
+  "age": "random_number",
+  "phone": "phone_phoneNumber",
+  "username": "internet_userName",
+  "emails": {
+  "one": "internet_email",
+  "two": "internet_exampleEmail"
+  },
+  "website": "internet_domainName",
+  "description": "lorem_paragraph",
+  "last_visit": {
+  "ip": "internet_ip",
+  "mac": "internet_mac",
+  "userAgent": "internet_userAgent",
+  "date": "date_past"
+  },
+  "images": {
+  "image": "image_image",
+  "avatar": "image_avatar",
+  "url": "image_imageUrl",
+    "abstract": "image_abstract",
+    "animals": "image_animals",
+    "business": "image_business",
+    "cats": "image_cats",
+    "city": "image_city",
+    "food": "image_food",
+    "nightlife": "image_nightlife",
+    "fashion": "image_fashion",
+    "people": "image_people",
+    "nature": "image_nature",
+    "sports": "image_sports",
+    "technics": "image_technics",
+    "transport": "image_transport"
+  }
 }
 ```
 ##### Advanced Response
